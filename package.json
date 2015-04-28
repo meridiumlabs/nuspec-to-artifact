@@ -1,0 +1,15 @@
+{
+  "name": "nuspec-to-artifact",
+  "version": "1.0.0",
+  "description": "Converts deploy.nuspec to TeamCity artifact syntax",
+  "main": "app.js",
+  "dependencies": {
+    "xmldoc": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torbjörn Walther",
+  "license": "MIT"
+}
